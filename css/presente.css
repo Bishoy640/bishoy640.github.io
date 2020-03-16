@@ -1,0 +1,21 @@
+.active1{
+    background-color: rgb(216, 29, 29);
+}
+
+.active1:hover{
+    background-color:#24b540 ;
+    border-bottom: #24b540;
+
+}
+
+.btn-success{
+    margin-left: 70px;
+}
+
+.frasi{
+    line-height: 1.9;
+}
+
+input {
+    height: 25px;
+}
